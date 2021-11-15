@@ -1,7 +1,7 @@
 url: https://paw-server-test.moonrailgun.com/api/gateway/health
-status: down
-code: 404
-responseTime: 711
-lastUpdated: 2021-11-15T08:36:26.110Z
+status: up
+code: 200
+responseTime: 1068
+lastUpdated: 2021-11-15T08:49:37.753Z
 startTime: Mon Aug 23 2021 09:38:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
